@@ -1,4 +1,5 @@
 Analysis of Ticket Splitting in Tennessee Elections, 1980-2020
+
 Capstone Project for Nashville Software School Daytime Data Analytics Cohort #6
 
 Table of Contents
